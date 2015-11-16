@@ -20,7 +20,7 @@ npm test
 
 # Authors
 
-- [Hannes Moser](mailto:hannes@impossiblearts.com)
+- [Nicola Deufemia](mailto:ndeufemia.mmt-b2014@fh-salzburg.ac.at)
 
 # License
 
