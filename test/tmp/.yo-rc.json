@@ -1,0 +1,14 @@
+{
+  "generator-04-generator": {
+    "name": "test",
+    "description": "aishe",
+    "title": "",
+    "author": "nico",
+    "license": "mit",
+    "main": "app/index.html",
+    "engine": [
+      "^5.0.0",
+      "^3.0.0"
+    ]
+  }
+}
